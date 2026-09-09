@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Arnab Maharjan 👋<br>🎓 Bachelor’s Student at DAV College<br>💻 Passionate Designer & Developer<br>🎨 UI/UX Enthusiast<br>🌍 Travel-Friendly & Curious Explorer<br>🚀 Exploring Technology, Creativity, and New Ideas<br><br>Building. Designing. Learning. Exploring. ✨
+Hi, I'm Arnab Maharjan 👋<br>🎓 Bachelor’s Student at DAV College<br>💻 Passionate Designer <br>🎨 UI/UX Enthusiast<br>🌍 Travel-Friendly & Curious Explorer<br>💪🏻Gym Addict <br>🚀 Exploring Technology, Creativity, and New Ideas<br><br>Building. Designing. Learning. Exploring. ✨
 
 
 ## 🌐 Socials:
