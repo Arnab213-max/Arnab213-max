@@ -71,9 +71,7 @@ Hey, I'm **Arnab Maharjan** 👋
 
 ### LET'S CONNECT
 
-<a href="mailto:Arnabmaharjan1@gmail.com">
-<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-E8D8B5?style=for-the-badge&logo=gmail&logoColor=171717" alt="Email"/>
-</a>
+[![Email Me](https://img.shields.io/badge/EMAIL%20ME-Contact%20Arnab-E8D8B5?style=for-the-badge&logo=gmail&logoColor=171717)](mailto:Arnabmaharjan1@gmail.com)
 
 <br/><br/>
 
