@@ -1,95 +1,108 @@
 # 💫 About Me:
 Hi, I'm Arnab Maharjan 👋<br>🎓 Bachelor’s Student at DAV College<br>💻 Passionate Designer<br>🎨 UI/UX Enthusiast<br>🌍 Travel-Friendly & Curious Explorer<br>💪🏻Gym Addict<br>🚀 Exploring Technology, Creativity, and New Ideas<br><br>Building. Designing. Learning. Exploring. ✨<br>
 
-
+<!-- ===================================================== -->
+<!--                 ARNAB MAHARJAN                        -->
+<!--              PREMIUM PROFILE README                   -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0D&height=180&section=header&text=ARNAB%20MAHARJAN&fontSize=46&fontColor=E8D8B5&fontAlignY=42&desc=AN%20INDIVIDUAL%20IN%20CONSTANT%20EVOLUTION&descSize=12&descColor=B7AA91&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101014,50:292522,100:8B7355&height=230&section=header&text=ARNAB%20MAHARJAN&fontSize=48&fontColor=F4EBDD&fontAlignY=38&desc=CREATIVITY%20%E2%80%A2%20EXPLORATION%20%E2%80%A2%20EVOLUTION&descSize=14&descColor=D8C7AA&descAlignY=60" width="100%" alt="Arnab Maharjan"/>
 
 <br/>
 
-<img src="assets/arnab-profile.jpg" width="240" style="border-radius:20px;" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3500&pause=1000&color=C5A77D&center=true&vCenter=true&width=600&lines=Creating+My+Own+Identity;Exploring+Beyond+Boundaries;Designing+With+Creativity;Living+With+Purpose;Always+Becoming+Better." alt="Animated introduction"/>
 
 <br/><br/>
 
-### A LITTLE DIFFERENT. ALWAYS EVOLVING.
+<a href="https://github.com/Arnab213-max">
+<img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=E8D8B5" alt="GitHub"/>
+</a>
+<a href="https://www.instagram.com/kiyoshi_akito/">
+<img src="https://img.shields.io/badge/INSTAGRAM-171717?style=for-the-badge&logo=instagram&logoColor=E8D8B5" alt="Instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/arnab-maharjan-2328b032a/">
+<img src="https://img.shields.io/badge/LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=E8D8B5" alt="LinkedIn"/>
+</a>
+<a href="https://www.youtube.com/@Baucha_Scrims">
+<img src="https://img.shields.io/badge/YOUTUBE-171717?style=for-the-badge&logo=youtube&logoColor=E8D8B5" alt="YouTube"/>
+</a>
 
-*Creating my own path, one experience at a time.*
+<br/><br/>
 
-[Instagram](https://www.instagram.com/kiyoshi_akito/) ·
-[LinkedIn](https://www.linkedin.com/in/arnab-maharjan-2328b032a/) ·
-[YouTube](https://www.youtube.com/@Baucha_Scrims) ·
-[Email](mailto:Arnabmaharjan1@gmail.com)
+### "A LITTLE DIFFERENT. ALWAYS EVOLVING."
+
+*Building experiences, collecting perspectives, and becoming better every day.*
 
 </div>
 
 ---
 
-<div align="center">
+## 01 / THE PERSON BEHIND THE PROFILE
 
-## THE PERSON BEHIND THE PROFILE
+Hey, I'm **Arnab Maharjan** 👋
 
-</div>
+A bachelor's student at DAV College, Nepal, with a curious mind and a passion for exploring different dimensions of life.
 
-Hey, I'm **Arnab Maharjan**.
+I enjoy the intersection of technology, visual creativity, lifestyle and personal growth.
 
-A bachelor's student at DAV College, based in Nepal, with a curious mind and a passion for exploring different dimensions of life.
+From designing digital experiences to exploring new places, spending time at the gym, gaming and creating content, I believe every experience adds something to who we become.
 
-I believe life isn't about fitting into one category. It's about discovering what you're capable of becoming.
+I don't want to fit into just one category.
 
-From visual creativity and technology to fitness, travelling, gaming and content creation, I enjoy experiencing things that challenge me, inspire me and help me grow.
+**I'm here to explore, experiment, create and evolve.**
 
-**I'm not trying to be just one thing. I'm building my own identity.**
+> "Don't limit yourself to one version of who you can become."
 
 ---
 
-## 01 / MY WORLD
+## 02 / MY WORLD
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎨 Creativity**
+### ✦ Creativity
 
 Exploring visual design, aesthetics, branding and UI/UX.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🌍 Exploration**
+### ✦ Exploration
 
-Discovering new places, experiences, cultures and perspectives.
+Discovering new places, cultures, experiences and perspectives.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**💪 Discipline**
+### ✦ Fitness & Discipline
 
-Gym, fitness, consistency and becoming a better version of myself.
+Gym, consistency, strength and becoming a better version of myself.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎬 Content Creation**
+### ✦ Content Creation
 
 Documenting experiences, sharing stories and creating meaningful content.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**💻 Technology**
+### ✦ Technology
 
-Exploring digital experiences, new tools and innovative ideas.
+Exploring digital experiences, innovative tools and new ideas.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎮 Gaming**
+### ✦ Gaming
 
 Competitive gaming, esports and connecting with the gaming community.
 
@@ -99,88 +112,127 @@ Competitive gaming, esports and connecting with the gaming community.
 
 ---
 
-## 02 / MY CREATIVE TOOLKIT
+## 03 / MY CREATIVE TOOLKIT
 
-I enjoy experimenting with different tools and turning ideas into experiences.
+*Some of the tools and technologies I use to bring ideas to life.*
 
-**DESIGN & VISUAL CREATIVITY**
+### DEVELOPMENT & TECHNOLOGY
 
-![Figma](https://img.shields.io/badge/Figma-181818?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-181818?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-181818?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-181818?style=flat-square&logo=canva&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/C-202020?style=for-the-badge&logo=c&logoColor=A8C7FA" alt="C"/>
+<img src="https://img.shields.io/badge/HTML5-202020?style=for-the-badge&logo=html5&logoColor=E76F51" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-202020?style=for-the-badge&logo=css3&logoColor=64A5F6" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/PHP-202020?style=for-the-badge&logo=php&logoColor=AEB7E8" alt="PHP"/>
+<img src="https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python&logoColor=FFD166" alt="Python"/>
+<img src="https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Bootstrap-202020?style=for-the-badge&logo=bootstrap&logoColor=B197FC" alt="Bootstrap"/>
+</p>
 
-**DIGITAL & TECHNOLOGY**
+### DATABASE & DIGITAL TOOLS
 
-![HTML5](https://img.shields.io/badge/HTML5-181818?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-181818?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-181818?style=flat-square&logo=php)
-![React](https://img.shields.io/badge/React-181818?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/Python-181818?style=flat-square&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-181818?style=flat-square&logo=mysql)
+<p>
+<img src="https://img.shields.io/badge/MySQL-202020?style=for-the-badge&logo=mysql&logoColor=8CC7E8" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-202020?style=for-the-badge&logo=mongodb&logoColor=71C98A" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MariaDB-202020?style=for-the-badge&logo=mariadb&logoColor=C6A7D8" alt="MariaDB"/>
+<img src="https://img.shields.io/badge/Apache-202020?style=for-the-badge&logo=apache&logoColor=E99A9A" alt="Apache"/>
+<img src="https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git&logoColor=F28B66" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Netlify-202020?style=for-the-badge&logo=netlify&logoColor=65D5C5" alt="Netlify"/>
+<img src="https://img.shields.io/badge/Vercel-202020?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel"/>
+</p>
+
+### DESIGN & CREATIVE SOFTWARE
+
+<p>
+<img src="https://img.shields.io/badge/Figma-202020?style=for-the-badge&logo=figma&logoColor=F29B83" alt="Figma"/>
+<img src="https://img.shields.io/badge/Photoshop-202020?style=for-the-badge&logo=adobephotoshop&logoColor=79BFFF" alt="Photoshop"/>
+<img src="https://img.shields.io/badge/Illustrator-202020?style=for-the-badge&logo=adobeillustrator&logoColor=FFB36B" alt="Illustrator"/>
+<img src="https://img.shields.io/badge/InDesign-202020?style=for-the-badge&logo=adobeindesign&logoColor=F28DA8" alt="InDesign"/>
+<img src="https://img.shields.io/badge/Canva-202020?style=for-the-badge&logo=canva&logoColor=71D6D0" alt="Canva"/>
+<img src="https://img.shields.io/badge/Notion-202020?style=for-the-badge&logo=notion&logoColor=FFFFFF" alt="Notion"/>
+</p>
 
 ---
 
-## 03 / CURRENTLY INTO
+## 04 / CURRENTLY EXPLORING
 
-| Exploring | My intention |
+| Focus | Direction |
 |:---|:---|
-| Personal Branding | Building a recognizable identity |
-| Design | Developing a stronger creative eye |
-| Fitness | Improving strength and discipline |
-| Content Creation | Sharing my real-life journey |
-| Travel | Collecting experiences, not just places |
-| Technology | Learning and experimenting |
+| Creative Practice | Visual storytelling & design thinking |
+| Digital Experiences | Building meaningful web experiences |
+| Personal Growth | Consistency, discipline & self-improvement |
+| Content Creation | Documenting real-life experiences |
+| Exploration | New places, people & perspectives |
 
 ---
 
-## 04 / MY DIGITAL SPACE
+## 05 / MY GITHUB SPACE
 
 <div align="center">
 
-<a href="https://github.com/Arnab213-max">
-<img src="https://github-readme-stats.vercel.app/api?username=Arnab213-max&show_icons=true&hide_border=true&bg_color=0B0B0D&title_color=E8D8B5&text_color=C4BBAA&icon_color=E8D8B5&include_all_commits=true" width="48%"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Arnab213-max&show_icons=true&hide_border=true&bg_color=111111&title_color=E8D8B5&text_color=D8D0C3&icon_color=C5A77D&rank_icon=github" width="49%" alt="GitHub Statistics"/>
 
-<a href="https://github.com/Arnab213-max">
-<img src="https://streak-stats.demolab.com?user=Arnab213-max&hide_border=true&background=0B0B0D&ring=E8D8B5&fire=E8D8B5&currStreakLabel=E8D8B5&sideLabels=C4BBAA&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" width="48%"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=Arnab213-max&hide_border=true&background=111111&ring=C5A77D&fire=E8D8B5&currStreakLabel=E8D8B5&sideLabels=D8D0C3&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab213-max&layout=compact&hide_border=true&bg_color=111111&title_color=E8D8B5&text_color=D8D0C3" width="42%" alt="Most Used Languages"/>
 
 </div>
 
 ---
 
-## 05 / A THOUGHT I LIVE BY
+## 06 / CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-### "Don't limit yourself to one version of who you can become."
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab213-max&bg_color=111111&color=E8D8B5&line=C5A77D&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity"/>
 
-*Stay curious. Stay disciplined. Keep evolving.*
+</div>
 
-<br/>
+---
 
-**BUILDING MY STORY, NOT FOLLOWING A TEMPLATE.**
+## 07 / A LITTLE INSPIRATION
 
-<br/>
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote"/>
+
+</div>
+
+---
+
+## 08 / LET'S CONNECT
+
+I appreciate connecting with people who are passionate about creativity, technology, exploration and personal growth.
+
+Have an idea, an interesting project or simply want to exchange thoughts?
+
+**My inbox is always open.**
+
+<div align="center">
 
 <a href="mailto:Arnabmaharjan1@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-E8D8B5?style=for-the-badge&logo=gmail&logoColor=0B0B0D"/>
+<img src="https://img.shields.io/badge/LET'S%20TALK-E8D8B5?style=for-the-badge&logo=gmail&logoColor=171717" alt="Email Arnab"/>
+</a>
+
+<a href="https://github.com/Arnab213-max">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORLD-171717?style=for-the-badge&logo=github&logoColor=E8D8B5" alt="Explore GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0B0D&height=100&section=footer" width="100%"/>
+### LESS LABELS. MORE EXPERIENCES.
 
-</div>
+*Thank you for being here.*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Arnab213-max&label=PROFILE%20VISITS&color=8B7355&style=flat-square" alt="Profile Views"/>
 
 <br/><br/>
 
-###  Building today. Creating tomorrow.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B7355,50:292522,100:101014&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
