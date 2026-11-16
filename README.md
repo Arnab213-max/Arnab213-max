@@ -1,17 +1,10 @@
 # 💫 About Me:
 Hi, I'm Arnab Maharjan 👋<br>🎓 Bachelor’s Student at DAV College<br>💻 Passionate Designer<br>🎨 UI/UX Enthusiast<br>🌍 Travel-Friendly & Curious Explorer<br>💪🏻Gym Addict<br>🚀 Exploring Technology, Creativity, and New Ideas<br><br>Building. Designing. Learning. Exploring. ✨<br>
 
-<!-- ===================================================== -->
-<!--                 ARNAB MAHARJAN                        -->
-<!--              PREMIUM PROFILE README                   -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101014,50:292522,100:8B7355&height=230&section=header&text=ARNAB%20MAHARJAN&fontSize=48&fontColor=F4EBDD&fontAlignY=38&desc=CREATIVITY%20%E2%80%A2%20EXPLORATION%20%E2%80%A2%20EVOLUTION&descSize=14&descColor=D8C7AA&descAlignY=60" width="100%" alt="Arnab Maharjan"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101014,50:292522,100:8B7355&height=230&section=header&text=ARNAB%20MAHARJAN&fontSize=48&fontColor=F4EBDD&fontAlignY=38&desc=CREATIVITY%20%E2%80%A2%20EXPLORATION%20%E2%80%A2%20EVOLUTION&descSize=14&descColor=D8C7AA&descAlignY=60" width="100%" alt="Arnab Maharjan"/> 
 <br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3500&pause=1000&color=C5A77D&center=true&vCenter=true&width=600&lines=Creating+My+Own+Identity;Exploring+Beyond+Boundaries;Designing+With+Creativity;Living+With+Purpose;Always+Becoming+Better." alt="Animated introduction"/>
 
 <br/><br/>
@@ -19,12 +12,15 @@ Hi, I'm Arnab Maharjan 👋<br>🎓 Bachelor’s Student at DAV College<br>💻 
 <a href="https://github.com/Arnab213-max">
 <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=E8D8B5" alt="GitHub"/>
 </a>
+
 <a href="https://www.instagram.com/kiyoshi_akito/">
 <img src="https://img.shields.io/badge/INSTAGRAM-171717?style=for-the-badge&logo=instagram&logoColor=E8D8B5" alt="Instagram"/>
 </a>
+
 <a href="https://www.linkedin.com/in/arnab-maharjan-2328b032a/">
 <img src="https://img.shields.io/badge/LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=E8D8B5" alt="LinkedIn"/>
 </a>
+
 <a href="https://www.youtube.com/@Baucha_Scrims">
 <img src="https://img.shields.io/badge/YOUTUBE-171717?style=for-the-badge&logo=youtube&logoColor=E8D8B5" alt="YouTube"/>
 </a>
@@ -76,6 +72,7 @@ Discovering new places, cultures, experiences and perspectives.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -92,6 +89,7 @@ Documenting experiences, sharing stories and creating meaningful content.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -171,13 +169,19 @@ Competitive gaming, esports and connecting with the gaming community.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arnab213-max&show_icons=true&hide_border=true&bg_color=111111&title_color=E8D8B5&text_color=D8D0C3&icon_color=C5A77D&rank_icon=github" width="49%" alt="GitHub Statistics"/>
-
-<img src="https://streak-stats.demolab.com?user=Arnab213-max&hide_border=true&background=111111&ring=C5A77D&fire=E8D8B5&currStreakLabel=E8D8B5&sideLabels=D8D0C3&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnab213-max&theme=github_dark" width="100%" alt="GitHub Profile Overview"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab213-max&layout=compact&hide_border=true&bg_color=111111&title_color=E8D8B5&text_color=D8D0C3" width="42%" alt="Most Used Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arnab213-max&theme=github_dark" width="49%" alt="GitHub Statistics"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arnab213-max&theme=github_dark" width="49%" alt="Repository Languages"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arnab213-max&theme=github_dark" width="49%" alt="Most Used Languages by Commits"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arnab213-max&theme=github_dark&utcOffset=5.75" width="49%" alt="Productive Time"/>
 
 </div>
 
@@ -197,7 +201,7 @@ Competitive gaming, esports and connecting with the gaming community.
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote"/>
 
 </div>
 
@@ -227,12 +231,9 @@ Have an idea, an interesting project or simply want to exchange thoughts?
 
 *Thank you for being here.*
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Arnab213-max&label=PROFILE%20VISITS&color=8B7355&style=flat-square" alt="Profile Views"/>
-
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B7355,50:292522,100:101014&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
+
