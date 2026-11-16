@@ -21,10 +21,6 @@ Hi, I'm Arnab Maharjan 👋<br>🎓 Bachelor’s Student at DAV College<br>💻 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Arnab213-max&limit=5&theme=prussian&combine_all_yearly_contributions=true)
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Arnab213-max/Arnab213-max/snake-output/snake.svg" alt="Snake animation" />
-
 
 ---
 [![](https://komarev.com/ghpvc/?username=Arnab213-max&icon=4&color=0)](https://visitcount.itsvg.in)
